@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin-top: 30px;
+  font-family: "Courier";
+  background-color: #fde1ff;
+  color: #fa73e3;
+}
+#thankyou {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.thanks {
+  margin-bottom: 10 px;
+}
+.button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 10px;
+  font-family: "courier";
+  margin-bottom: 20px;
+  background-color: #ffe3e1;
+  color: #fa73e3;
+  border-radius: 12px;
+  border: 2px solid #fde1ff;
+  box-shadow: 1px 1px 2px #fa73e3;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #fa73e3;
+  color: #ffe3e1;
+  border: 2px solid #fa73e3;
+  box-shadow: 1px 1px 2px #ffe3e1;
+}
